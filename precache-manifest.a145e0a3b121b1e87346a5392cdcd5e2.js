@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Shibe/static/css/main.5d4c1abe.chunk.css"
   },
   {
-    "revision": "1a6cfe06ed64aa52cd522baf6531cddf",
+    "revision": "3e60ecde26d3b791cd5ca88b3863e494",
     "url": "/Shibe/index.html"
   }
 ];
